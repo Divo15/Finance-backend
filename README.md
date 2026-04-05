@@ -14,7 +14,7 @@ A role-based finance dashboard backend built with NestJS, TypeScript, PostgreSQL
 
 ### 1. Clone and install
 ```bash
-git clone <your-repo-url>
+git clone github.com/Divo15/
 cd finance-backend
 npm install
 ```
@@ -132,7 +132,6 @@ GET /api/records?type=INCOME&category=Salary&startDate=2026-01-01&endDate=2026-1
 ```
 
 ---
-
 ### Dashboard
 | Method | Endpoint | Description | Access |
 |---|---|---|---|
